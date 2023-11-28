@@ -47,10 +47,3 @@ Generating summaries and comments for YouTube videos
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Thanks to [OpenAI](https://www.openai.com/) for providing the GPT-3.5 model used in this project.
-```
-
-Replace the placeholder URLs, project structure, and other details with your actual project information. Additionally, make sure to update the "License" section with the appropriate license for your project.
