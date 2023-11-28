@@ -1,4 +1,4 @@
-# AGSCYV Chrome Extension - Summarizer
+# ![icon](https://github.com/DebasishTripathy13/AGSCYV/assets/94828569/1367ab94-f8da-44a3-b62e-56b8aec0fd5d) AGSCYV Chrome Extension - Summarizer
 Generating summaries and comments for YouTube videos
 
 
