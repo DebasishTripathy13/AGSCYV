@@ -20,6 +20,8 @@ Generating summaries and comments for YouTube videos
 1. Open a webpage in Chrome.
 2. Click on the extension icon in the toolbar.
 3. Click the "Summarize" button on the popup to initiate summarization and commenting.
+   ![image](https://github.com/DebasishTripathy13/AGSCYV/assets/94828569/189e673f-fd0f-4ba7-bd7d-6276a3d372cf)
+
 
 ## Project Structure
 
@@ -47,3 +49,9 @@ Generating summaries and comments for YouTube videos
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+## POC
+![image](https://github.com/DebasishTripathy13/AGSCYV/assets/94828569/189e673f-fd0f-4ba7-bd7d-6276a3d372cf)
+![image](https://github.com/DebasishTripathy13/AGSCYV/assets/94828569/177af482-5218-4e6f-85d6-d6d14326637d)
+![image](https://github.com/DebasishTripathy13/AGSCYV/assets/94828569/e4098a77-d479-4eb2-9896-90454bc73f06)
+<img width="1244" alt="Screenshot 2023-11-29 115610" src="https://github.com/DebasishTripathy13/AGSCYV/assets/94828569/2cc04c5b-819e-42b4-aed2-987e9099ae03">
+
